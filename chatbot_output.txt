@@ -1,0 +1,27 @@
+Python 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+========================= RESTART: E:\Python\chatbot.py ========================
+🤖 Welcome to AI & SysAdmin Chatbot!
+Type 'bye' anytime to exit.
+
+You: hello
+Bot: Hey! Ask me anything about AI or SysAdmin.
+You: what is sysadmin
+Bot: System Administration involves maintaining and managing IT systems.
+You: use
+Bot: Hmm, I don't know that yet. Try asking about machine learning or servers.
+You: firewall
+Bot: A firewall protects your system from unauthorized access.
+You: linux
+Bot: Linux is a free, open-source operating system used in servers and systems.
+You: ai
+Bot: Hmm, I don't know that yet. Try asking about machine learning or servers.
+You: what is AI
+Bot: AI means Artificial Intelligence — making machines think like humans.
+You: what is ai
+Bot: AI allows systems to learn from data and improve over time.
+You: active directory
+Bot: Active Directory is a Microsoft service for managing users, computers, and resources.
+You: bye
+Bot: 👋 Goodbye! Keep exploring AI and SysAdmin!
