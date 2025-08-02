@@ -38,7 +38,8 @@ Bot: Sysadmins ensure networks, servers, and user systems work smoothly.
 You: bye
 Bot: 👋 Goodbye! Keep exploring AI and SysAdmin!
 ```
-"E:\Python\chatbot_output.txt"
+
+E:\Python\chatbot_output.txt
 
 ## 🛠 Requirements
 - Python 3.x  
