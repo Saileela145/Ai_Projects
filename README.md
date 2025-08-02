@@ -48,6 +48,5 @@ Bot: 👋 Goodbye! Keep exploring AI and SysAdmin!
 ## 📂 Files in This Project
 - **`chatbot.py`** → Main chatbot code.
 - **`README.md`** → Project description and example usage.
-- *(Optional)* Screenshot of chatbot in action.
 ## 🏆 Author
 Created as part of **AI Day 1 Mini Project** by *Saileela*.
